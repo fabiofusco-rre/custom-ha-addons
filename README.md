@@ -7,7 +7,7 @@ Contributors, suggestions, and bug notifications are welcome. You can just open 
 
 ## Authors & contributors
 
-The original setup of this repository is by [Fabio Fusco][fabiofusco-rre] and [Giuseppe Lauro][peppelauro].
+The original setup of this repository is by [Fabio Fusco](https://github.com/fabiofusco-rre)] and [Giuseppe Lauro](https://github.com/peppelauro).
 
 For a full list of all authors and contributors,
-check [the contributor's page][contributors].
+check [the contributor's page](https://github.com/fabiofusco-rre/custom-ha-addons/graphs/contributors)].
